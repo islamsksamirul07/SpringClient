@@ -1,4 +1,4 @@
-package com.PdfGeneratorClients.PdfGeneratorClients.Entity;
+package com.PdfGeneratorClients.PdfGeneratorClients;
 
 import java.io.ByteArrayInputStream;
 import java.util.List;
